@@ -1,0 +1,32 @@
+DOCUMENT : 1 of 10
+
+PAPER : Algemeen Dagblad
+
+DATE : February 9, 2002
+
+
+SOURCE : Reuters
+
+BYLINE : ANP/REUTERS
+
+SECTION : Beurs Internationaal ; Pg. 40
+
+LENGTH : 290 words
+
+DATELINE : Londen
+
+BODY :
+
+HEADLINE : Britten beschermen mobieltjes tegen dieven
+
+De Britse telecombedrijven Vodafone en BT Cellnet maken het stelen van mobieltjes minder aantrekkelijk. Dat gebeurt onder druk van de Britse regering. Die vindt dat het met deze vorm van criminaliteit de spuigaten uitloopt.
+De ondernemingen komen met een nieuw computersysteem waarmee ze het bellen via hun netwerken kunnen blokkeren. Ook gaan ze een methode toepassen die telefoongesprekken met gestolen mobieltjes traceert.
+Bovendien willen Vodafone en BT Cellnet de serienummers van hun mobieltjes bekendmaken aan andere telecomaanbieders. Zo onstaat een zwarte lijst en kunnen alle netwerken het leggen van verbindingen met gestolen mobieltjes blokkeren.
+Vorige maand presenteerde het Britse ministerie van Binnenlandse Zaken een rapport waaruit blijkt dat het afgelopen jaar het ontvreemden van mobiele telefoons is verdrievoudigd en dat zeker een half miljoen jongeren hun mobieltjes waren kwijtgeraakt aan straatrovers en andere dieven. Het ministerie bekritiseerde daarin ook de twee telecombedrijven.
+Vodafone en BT Cellnet deden niet meer dan het ongeldig maken van de sim-kaart , het persoonlijke identificatienummer van de beller. Maar deze is vrij simpel te vervangen. Andere bedrijven , zoals Orange , Virgin en One2One benutten al het serienummer dat elk toestel heeft en gaven deze nummers door aan de netwerken om oproepen met gestolen apparatuur te blokkeren.
+Volgens BT Cellnet is die maatregel echter niet toereikend omdat criminelen ook serienummers kunnen herprogrammeren.
+In Nederland is het nog niet zo ver. Nederlandse telecomaanbieders praten wel met elkaar , maar daar komt nog niet veel uit.
+
+TAIL :
+Telefonie ; Criminaliteit ; Producten ; Algemeen ; Recht ; Infrastructuur ; Telecommunicatie
+

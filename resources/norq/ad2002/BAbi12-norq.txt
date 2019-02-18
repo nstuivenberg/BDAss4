@@ -1,0 +1,31 @@
+DOCUMENT : 12 of 158
+
+PAPER : Algemeen Dagblad
+
+DATE : February 9, 2002
+
+
+BYLINE : DOOR OLOF VAN JOOLEN
+
+SECTION : Binnenland ; Pg. 2
+
+LENGTH : 471 words
+
+DATELINE : Den Haag
+
+BODY :
+
+HEADLINE : Ook met sms wachten op tram
+
+Tijd is geld , dus niet hoeven wachten is winst. Het Haagse openbaarvervoerbedrijf HTM biedt sinds kort een dienst aan die via de gsm meldt hoe laat de tram of bus vertrekt. Het systeem is nog niet waterdicht.
+De computer die de sms'jes verstuurt , weet het heel zeker. Tramlijn 1 stopt niet voor station Hollands Spoor. De gebruiker van het nieuwste ov-informatiesysteem kijkt beteuterd van de gebruiksaanwijzing van het systeem naar zijn telefoon. «Of de dynamische informatie is niet beschikbaar» , voegt het sms-je er cryptisch aan toe. Wat die mededeling betekent blijft onduidelijk. Op dat moment komt lijn 1 knarsend tot stilstand. Keurig op tijd , volgens een elektronisch informatiebord op het perron.
+Een nieuwe poging op het busstation van Den Haag CS. Hoe laat gaat de bus naar het Westeinde Ziekenhuis ? Binnen een paar seconden piept de telefoon met het antwoord. Om twee over vier , en de volgende komt zeven minuten daarna. Dat lijkt er meer op. Lijn 25 staat inderdaad bij de halte. Tot vier uur , want de norse chauffeur met snor vindt het dan de hoogste tijd om te gaan.
+Hij zet er flink de sokken in. Als lijn 25 na een snelle rit over de trambaan 5 minuten te vroeg bij het Westeinde arriveert , weet de computer van niks. Het sms-je vermeldt alleen de tijd uit de dienstregeling. Maar dan is de bus alweer vertrokken.
+Nog een keer proberen. Hoe laat gaat de bus terug naar CS ? Eindelijk prijs. Deze keer stuurt de computer een berichtje waarin staat dat het een minuut duurt. Dat is mazzel , want uit de grijze lucht vallen de eerste druppels. Vijf minuten later is de capuchon al een tijdje op en komt de bus om de hoek.
+Het kan erger : vandaag rijdt lijn 25 om. De chauffeur en alle reizigers om hem heen horen waarom. «Er is een auto op ze dak gepleurd. We kenne er niet door» , klinkt het uit de luidspreker. Gevolgd door een stroom aan mogelijke scenario's. Intussen meldt de computer aan iedereen die bij de Amsterdamse Veerkade staat te wachten dat het niet langer dan een minuutje kan duren. Gelukkig is het niet ver lopen naar het station.
+Projectleider Arjan Vermeulen is verbaasd als hij hoort van deze en andere «schoonheidsfoutjes» in zijn systeem. «Misschien is het een kwestie van een beetje finetunen» , zegt hij licht vertwijfeld. Als mogelijke oorzaak draagt Vermeulen aan dat nog niet alle trams en bussen van gps-peilzenders zijn voorzien. Vooralsnog is dat te kostbaar. Hierdoor krijgt de computer niet de benodigde gegevens en schakelt hij over op de gewone dienstregeling.
+«Het informatieysteem zit nog in de ontwikkelingsfase en kent zijn beperkingen. We hebben een hoop enthousiaste reacties , maar we zijn ook erg blij met kritiek» , zegt de projectleider. «We zullen hier zeker naar kijken.»
+
+TAIL :
+Lokaal openbaar vervoer ; Verkeer en Vervoer ; Openbaar Vervoer
+
